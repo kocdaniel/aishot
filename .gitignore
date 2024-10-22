@@ -3,3 +3,4 @@
 !.volumes/**/.gitkeep
 node_modules
 .DS_Store
+.env*
